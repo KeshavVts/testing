@@ -1,0 +1,1 @@
+print("jatt da mukabla das menu kithe ae ni ")
